@@ -30,12 +30,13 @@ body, * {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: navy;
+background: url('spider-man-hey.jpeg') no-repeat center center fixed;
   color: yellow;
 }
 .quote {
   font-size: 3em;
   text-align: center;
+  padding-bottom: 100px;
 }
 .qualities {
   background: salmon;
